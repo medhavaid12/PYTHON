@@ -1,0 +1,11 @@
+Q3.#make a list l1 and add the elements
+l1=[1,4,6]
+#make a list l2 and add the elements 
+l2=[2,3,5]
+#list 3 will include the elements of both l1 and l2
+l3=l1+l2
+#sort function to print the output in a sequence 
+m=sorted(l3)
+#sorted list will be printed
+print(m)
+#code is run by Medha Vaid 
